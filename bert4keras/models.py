@@ -8,7 +8,7 @@ from bert4keras.snippets import insert_arguments
 from bert4keras.snippets import delete_arguments
 from bert4keras.snippets import is_string, string_matching
 from bert4keras.snippets import orthogonally_resize
-from keras.models import Model
+from tensorflow.keras.models import Model
 import json
 
 
